@@ -127,6 +127,31 @@ REFERENCES
 
     https://ieeeaccess.ieee.org/featured-articles/aiandcovid19_deeplearning/
     
+OUTPUT
+
+      MAIN PAGE
+ ![main](https://user-images.githubusercontent.com/53348962/118993566-3f6f5200-b9a3-11eb-8ec2-5a2f51bf2819.png)
+ 
+      GUIDENCE TO USE
+ ![guidence](https://user-images.githubusercontent.com/53348962/118993667-5615a900-b9a3-11eb-84f2-8b8e183e5011.png)
+ 
+       UPLOAD X-RAY IMAGE
+ ![chest x-ray](https://user-images.githubusercontent.com/53348962/118993643-50b85e80-b9a3-11eb-8b4c-916649cfceb4.png)
+ 
+        CHEST X-RAY REPORT
+ ![x-ray report](https://user-images.githubusercontent.com/53348962/118993669-56ae3f80-b9a3-11eb-95a1-49a5bb01eae9.png)
+![x-ray report1](https://user-images.githubusercontent.com/53348962/118993677-57df6c80-b9a3-11eb-930c-5ef79245be9f.png)
+
+        UPLOAD CT-SCAN IMAGE
+![chest ct](https://user-images.githubusercontent.com/53348962/118994364-e358fd80-b9a3-11eb-94a3-f31f2a1f25b7.png)
+
+        CT IMAGE REPORT
+![c-report1](https://user-images.githubusercontent.com/53348962/118994375-e5bb5780-b9a3-11eb-9c32-3431aeda0656.png)
+![ct-report](https://user-images.githubusercontent.com/53348962/118994383-e8b64800-b9a3-11eb-9687-3770d70bbfcd.png)
+
+        ANALYSIS
+![analysis](https://user-images.githubusercontent.com/53348962/118994351-e18f3a00-b9a3-11eb-881e-88b2df3ff77b.png)
+    
 
 
 
