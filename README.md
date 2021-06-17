@@ -75,15 +75,15 @@ MODULE DESCRIPTION
 IMPLEMENTATION
 
     HARDWARE  REQUIREMENTS 
-        System	            : Pentium V 
-        Hard Disk        	  : 40 GB.
-        Monitor		          : 15 VGA Colour.
-        Ram		              : 512 Mb.
+        System	                : Pentium V 
+        Hard Disk        	    : 40 GB.
+        Monitor		            : 15 VGA Colour.
+        Ram		                : 512 Mb.
 
     SOFTWARE  REQUIREMENTS
         Operating system 		: 	Windows 10
-        Coding Language		  :	  Python
-        Platform			      :	  Pycharm
+        Coding Language		    :	Python
+        Platform			    :	Pycharm
         
      LIBRARY REQUIREMENTS
          flask
@@ -151,6 +151,9 @@ OUTPUT
 
         ANALYSIS
 ![analysis](https://user-images.githubusercontent.com/53348962/118994351-e18f3a00-b9a3-11eb-881e-88b2df3ff77b.png)
+
+OutPut Video
+https://user-images.githubusercontent.com/53348962/122394732-ed1a5480-cf93-11eb-9214-5f7679a57a77.mp4
     
 
 
