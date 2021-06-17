@@ -1,5 +1,5 @@
 # Artificial-Intelligence-and-COVID-19-Deep-Learning-Approaches-for-Diagnosis-and-Treatment
-final year IEEE project
+IEEE Acess 2020,DOI 2020.3001973
 
 Introduction
 
