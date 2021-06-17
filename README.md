@@ -3,26 +3,26 @@ IEEE Acess 2020,DOI 2020.3001973
 
 Introduction
 
-    Several countries are under lockdown today because of the exponentially increasing number of COVID-19 cases.
-    The one factor that can contain the virus, apart from an increase in hygiene and social distancing, is early
-    diagnosis to effectively isolate carriers of the disease.
+    Several countries are under lockdown today because of the exponentially increasing number of COVID-19 
+    cases.The one factor that can contain the virus, apart from an increase in hygiene and social 
+    distancing, is early diagnosis to effectively isolate carriers of the disease.
 
-    Limited availability of viral testing kits and the time-consuming nature of these tests is making radiology
-    come to the forefront of diagnosis. The report given by them is turning out to be a key element in deciding
-    the treatment. 
+    Limited availability of viral testing kits and the time-consuming nature of these tests is making 
+    radiology come to the forefront of diagnosis. The report given by them is turning out to be a key 
+    element in deciding the treatment. 
     
-    COVID-19’s rate of transmission depends on our capacity to reliably identify infected patients, with a low
-    percentage of false negatives. Timely detection of the disease enables the implementation of all supportive
-    care required by the affected patients as well as isolation to prevent spread.
+    COVID-19’s rate of transmission depends on our capacity to reliably identify infected patients, 
+    with a low percentage of false negatives. Timely detection of the disease enables the implementation
+    of all supportive care required by the affected patients as well as isolation to prevent spread.
 
-    In COVID-19 scenario, covid infected people is easily captured through their property like fever, blowing
-    nose ,head pain and body pain etc. but in this COVID 2.0 ,we found some of the people who have no any
-    activity like this ,they also effected with covid . 
+    In COVID-19 scenario, covid infected people is easily captured through their property like fever,
+    blowing nose ,head pain and body pain etc. but in this COVID 2.0 ,we found some of the people who
+    have no any activity like this ,they also effected with covid . 
     
-    we will do test to find the covid positive people but that test took 3 days or more time to find this .
-    so for solving that solution we use xray and ct-scan report to find the effected people within one hour.
-    Here we used more than 100 images dataset for postive and 100 plus images for covid negative and use 
-    that image to find covid positive patient. It will give 97% accuracy.
+    we will do test to find the covid positive people but that test took 3 days or more time to find
+    this so for solving that solution we use xray and ct-scan report to find the effected people within
+    one hour.Here we used more than 100 images dataset for postive and 100 plus images for covid negative
+    and use that image to find covid positive patient. It will give 97% accuracy.
     
  PROPOSED  SYSTEM
 
@@ -152,8 +152,9 @@ OUTPUT
         ANALYSIS
 ![analysis](https://user-images.githubusercontent.com/53348962/118994351-e18f3a00-b9a3-11eb-881e-88b2df3ff77b.png)
 
+
 OutPut Video
-https://user-images.githubusercontent.com/53348962/122394732-ed1a5480-cf93-11eb-9214-5f7679a57a77.mp4
+https://youtu.be/y_mnvkyu_E8
     
 
 
